@@ -1,5 +1,3 @@
-Here’s a GitHub bio template tailored for you as a frontend developer:
-
 👋 Hi, I’m Efe Aço
 
 Frontend Developer
@@ -35,8 +33,3 @@ I’m a passionate frontend developer with a knack for crafting visually appeali
 
 	•	Email: alcoefe@gmail.com
 	•	LinkedIn: https://www.linkedin.com/in/efealco
-
-<!---
-efealco/efealco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

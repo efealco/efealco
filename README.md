@@ -1,35 +1,37 @@
-👋 Hi, I’m Efe Aço
+# Hi, I’m Efe Alco 👋  
+Frontend Engineer building scalable, high-performance web applications.
 
-Frontend Developer
+I focus on writing clean, maintainable code and designing systems that scale — not just components that work.
 
-I’m a passionate frontend developer with a knack for crafting visually appealing and user-friendly interfaces. I specialize in building responsive, scalable web applications that focus on performance and accessibility.
+## ⚡ What I do
+- Build modern web apps with React, TypeScript, and Next.js  
+- Architect scalable frontend systems (state, data flow, structure)  
+- Turn complex problems into simple, intuitive user experiences  
+- Optimize performance, accessibility, and developer experience  
 
-🚀 Skills & Technologies:
+## 🧠 Tech Stack
+**Core:** React, Next.js, TypeScript  
+**State & Data:** TanStack Query, Zustand, Redux  
+**Styling:** Tailwind, CSS-in-JS, modern CSS architecture  
+**Backend Touch:** Node.js, PostgreSQL, REST / GraphQL  
+**Tooling:** Vite, Webpack, ESLint, Prettier  
 
-	•	Languages: JavaScript (ES6+), HTML5, CSS3, TypeScript
-	•	Frameworks & Libraries: React.js, Next.js, Angular
-	•	Styling: SASS, CSS-in-JS, Tailwind CSS, Bootstrap
-	•	Tools: Git, Webpack, Babel, npm/yarn, ESLint, Prettier
-	•	APIs: RESTful, GraphQL
- 	•	Databases: PostgreSQL
-	•	Cloud Services: AWS (S3, EC2, Lambda)
-	•	Testing: Jest, Cypress, React Testing Library
-	•	Others: Progressive Web Apps (PWAs), Responsive Web Design, UI/UX principles, State Management (Redux, Context API)
+## 🚀 Current Focus
+- Building production-grade frontend architectures  
+- Real-time applications & data synchronization  
+- Advanced animations (GSAP, Framer Motion)  
+- Performance optimization at scale  
 
-🌱 What I’m currently working on:
+## 📌 Selected Work
+- Kanban Board (drag & drop, scalable state architecture)  
+- Analytics Dashboard (modular + production-ready patterns)  
+- Portfolio (interactive, animation-driven UX)  
 
-	•	Building interactive and real-time web applications with modern technologies like React and WebSockets.
-	•	Enhancing my skills in advanced CSS techniques and animations.
-	•	Exploring server-side rendering (SSR) with Next.js.
+## 💬 Let’s talk about
+- Frontend architecture & scalability  
+- Performance optimization  
+- Clean code & maintainability  
 
-💬 Ask me about:
-
-	•	Frontend best practices
-	•	JavaScript frameworks and libraries
-	•	Building responsive, accessible web applications
-	•	Web performance optimization
-
-📫 How to reach me:
-
-	•	Email: alcoefe@gmail.com
-	•	LinkedIn: https://www.linkedin.com/in/efealco
+## 📫 Contact
+- Email: alcoefe@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/efealco

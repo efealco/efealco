@@ -13,7 +13,7 @@ I focus on writing clean, maintainable code and designing systems that scale —
 **Core:** React, Next.js, TypeScript  
 **State & Data:** TanStack Query, Zustand, Redux  
 **Styling:** Tailwind, CSS-in-JS, modern CSS architecture  
-**Backend Touch:** Node.js, PostgreSQL, REST / GraphQL  
+**Backend Touch:** Python, C++, Qt, Node.js, PostgreSQL, REST / GraphQL  
 **Tooling:** Vite, Webpack, ESLint, Prettier  
 
 ## Current Focus
